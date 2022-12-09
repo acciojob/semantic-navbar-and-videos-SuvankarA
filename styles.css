@@ -1,2 +1,39 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: rgb(70, 227, 8);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Indie Flower';
+    font-size: 30px;
+  }
+  li a:hover {
+    background-color: rgb(10, 89, 0);
+  }
+  h3 {
+    font-family: 'Indie Flower';
+    text-align: center;
+    font-size: 50px;
+    color: rgb(16, 38, 232);
+    text-decoration: underline;
+  }
+  body{
+    background-color: rgb(220, 251, 110);
+  }
+  section {
+    float: right;
+    padding: 20px;
+    word-spacing: 100px;
+  }
 
 /* Your CSS Code here. */
